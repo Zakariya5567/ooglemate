@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "405269775630",
+    "project_id": "ooglemate-1facf",
+    "storage_bucket": "ooglemate-1facf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405269775630:android:8061b7ee60a2026d6a035f",
+        "android_client_info": {
+          "package_name": "com.OogleMate.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405269775630-6tdil5iomcaksvklqk98muivvom1je45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.OogleMate.app",
+            "certificate_hash": "5bda276dcf8d0e30057da330efed8be062184c2b"
+          }
+        },
+        {
+          "client_id": "405269775630-t4i4tpchrcmlfppv23o1m72lhuni324j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.OogleMate.app",
+            "certificate_hash": "3cac830880e10c54785d9abb22a2eeda1855e4af"
+          }
+        },
+        {
+          "client_id": "405269775630-t70c7emuasmemqbpmfi16brs8hu470ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqrRO2kMe3HB-qNytTAeTbYeGdNC5V_pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405269775630-t70c7emuasmemqbpmfi16brs8hu470ij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405269775630-eckj0hupiqp8kot05db19h57269mfhei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.OogleMate.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
